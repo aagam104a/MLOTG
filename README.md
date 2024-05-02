@@ -4,7 +4,7 @@ ML On the Go is your one-stop solution for quick and hassle-free data preprocess
 
 ## What is ML On the Go?
 
-ML On the Go is a streaming application designed to simplify the preprocessing of datasets for machine learning tasks. Whether you're a beginner or a seasoned data scientist, our app makes it easy to preprocess your data without the need for complex coding or setup.
+ML On the Go is a streamlit application designed to simplify the preprocessing of datasets for machine learning tasks. Whether you're a beginner or a seasoned data scientist, our app makes it easy to preprocess your data without the need for complex coding or setup.
 
 ## Key Features
 
